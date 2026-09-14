@@ -13,4 +13,5 @@ For segmentation: https://drive.google.com/file/d/1mPyeKzZxBjyuju-DQ8Tb0oBKZbE03
 The Windows version is 
 https://drive.google.com/file/d/1T9RDzepiRRiCOnLhOEeuZNy2DhPgY4OF/view?usp=drive_link
 
+The current version is SMART 2.0. We added the tool to create train data. (YOLO+U Net)
 This project is under the support of MoonShot Goal 3.
