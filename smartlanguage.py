@@ -37,8 +37,8 @@ GUI_LGE = {
     },
     "checkall": {
         "en": "Process all stomata",
-        "ja": "気孔を全部処理する",
-        "zh": "处理所有气孔"
+        "ja": "質がよい気孔だけ処理する",
+        "zh": "处理优质气孔"
     },
     "resultfolder": {
         "en": "Result folder",
