@@ -14,4 +14,8 @@ The Windows version is
 https://drive.google.com/file/d/1T9RDzepiRRiCOnLhOEeuZNy2DhPgY4OF/view?usp=drive_link
 
 The current version is SMART 2.0. We added the tool to create train data. (YOLO+U Net)
+How to run the program:
+1. pip install -r requirement.txt
+2. Download weight file from google drive and put them into directory.
+3. python SMART.py
 This project is under the support of MoonShot Goal 3.
